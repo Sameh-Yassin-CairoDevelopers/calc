@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A modern, precision scientific and standard calculator with calculation history, memory functions, and responsive keypad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
